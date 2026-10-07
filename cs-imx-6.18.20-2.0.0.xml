@@ -40,7 +40,7 @@
   <project name="meta-virtualization" remote="yp" path="sources/meta-virtualization" revision="022f4356d4a9b389f51472d40a9330aa59f6bb9a" upstream="master"/>
 
  <!-- Calixto Yocto Project BSP -->
-  <project name="meta-calixto-nxp" path="sources/meta-calixto-nxp" remote="Amh-2621" revision="8eff7239e3ec15e3481b026fa28f65e4c93e7b9f" upstream="wrynose">                                                                                       
+  <project name="meta-calixto-nxp" path="sources/meta-calixto-nxp" remote="Amh-2621" revision="de074704758ad9b8fbcbd12b3c0a10b65bd98bbe" upstream="wrynose">                                                                                       
     <linkfile dest="calixto-setup-release.sh" src="tools/calixto-setup-release.sh"/>
     <linkfile dest="setup-environment" src="tools/setup-environment"/>
     <linkfile dest="install_prerequisites.sh" src="tools/install_prerequisites.sh"/>
